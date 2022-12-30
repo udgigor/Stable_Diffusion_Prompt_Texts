@@ -1,0 +1,48 @@
+ambient lighting
+astral colors
+atmospheric lighting
+backlight
+beautifully lit
+brown and grey color palette
+candle light
+cinematic lighting
+Cold Color Pale
+Colorful
+complementary colors
+cozy lighting
+dark mode polychromatic
+dark multicolor
+dark sepia tones
+dichromatic
+dynamic lighting
+electric colors
+golden hour
+gradient colors
+gradient wash tones
+Infrared
+jungle color palette
+kinemacolor
+light colors
+light mode polychromatic
+low contrast
+moody lighting
+natural lighting
+neon
+neon colors
+ocean color palette
+pale multicolor
+Pastel
+rainbow colors
+ray tracing
+saturated colors
+spectral colors
+specular lighting
+split complementary
+supplementary colors
+synthwave
+tetrachromatic
+tonal colors
+volumetric lighting
+warm lighting
+Warm Color Palette
+global illumination

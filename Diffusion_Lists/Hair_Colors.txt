@@ -1,0 +1,46 @@
+Blond
+Brown
+Black
+Auburn
+Red
+Gray
+White
+Blue
+Green
+Rainbow
+Neon
+Electric
+Aurora
+Galaxy
+Nebula
+Platinum
+Gold
+Dark Brown
+Dark Blond
+Dark Red
+Dark Auburn
+Dark Gold
+Dark Blue
+Dark Green
+Pink
+Aqua
+Lavender
+Purple
+Lime-Green
+Lemon Yellow
+Sky Blue
+Powder Blue
+Dark Blue
+Teal
+Mauve
+Orange
+Red-Orange
+Yellow-Green
+Blue-Green
+Violet
+Fiery Red
+Copper
+Silver
+Bronze
+Brass
+Glitter
